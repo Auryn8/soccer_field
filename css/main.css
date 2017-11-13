@@ -1,26 +1,44 @@
 *{
+    background: #212121;
     margin: 0px;
     padding: 0px;
-    background: #212121;
+    
 } 
 
 #field {
     
+    background: #2E7D32;
+    border: 3px solid #FAFAFA;
     width: 520px;
     height: 300px;    
-    background: #2E7D32;
-    border: 3px solid #FAFAFA
     
     }
 
-.rectangle {
+.rectangle1 {
     
-    top: 100px;
+    background: #2E7D32;
+    border: 3px solid #FAFAFA;
+    position: relative;
+    top: 90px;
     width: 70px;
     height: 120px;    
-    background: #2E7D32;
-    border: 3px solid #FAFAFA
+    
         
-}
+    }
+
+
+.rectangle2 {
+    
+    background: #2E7D32;
+    border: 3px solid #FAFAFA;
+    position: relative;
+    bottom: 40px;
+    left: 445px;
+    width: 70px;
+    height: 120px;    
+    
+        
+    }
+
 
     
